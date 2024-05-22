@@ -1,0 +1,10 @@
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\bin\Debug\EightQueens.exe.config
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\bin\Debug\EightQueens.exe
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\bin\Debug\EightQueens.pdb
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.csproj.AssemblyReference.cache
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.Form1.resources
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.Properties.Resources.resources
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.csproj.GenerateResource.cache
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.csproj.CoreCompileInputs.cache
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.exe
+C:\Users\mrdar\source\repos\EightQueens\EightQueens\obj\Debug\EightQueens.pdb
